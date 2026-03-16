@@ -1,3 +1,3 @@
 This is my first repos
 
-Author- Mahesh Kumar
+Author- Mahesh Kumar Patel
